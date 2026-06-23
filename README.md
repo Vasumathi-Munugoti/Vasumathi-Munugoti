@@ -47,9 +47,8 @@
 - Java Full Stack Development
 - React.js
 - Spring Boot
-- Data Structures & Algorithms
-- SQL & Database Design
-- Software Engineering Best Practices
+- MySql 
+
 
 ---
 
