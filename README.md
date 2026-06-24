@@ -166,6 +166,11 @@ Python • Image Processing • Data Security
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vasumathi-Munugoti/Vasumathi-Munugoti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ## 🤝 Let's Connect
 
