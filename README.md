@@ -50,7 +50,7 @@
 - SQL & Database Design
 - Software Engineering Best Practices
 
----
+--
 
 ## 🏅 Achievements
 
